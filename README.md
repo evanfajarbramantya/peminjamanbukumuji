@@ -1,6 +1,7 @@
 # Perpustakaan Digital SMK — paketempat
 
 Aplikasi web manajemen perpustakaan sekolah berbasis PHP native dan MySQL, dengan tiga peran pengguna: **Admin**, **Petugas**, dan **Siswa/Anggota**. Sistem mencakup katalog buku, peminjaman & pengembalian, denda keterlambatan, dan ulasan buku.
+**algoritma**[algoritma]9(https://canva.link/m2rvagihzrjkddm)
 
 ## Fitur Utama
 
